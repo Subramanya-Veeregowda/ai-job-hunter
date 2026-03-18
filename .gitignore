@@ -1,0 +1,25 @@
+# Build
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated files
+jobs.csv
+
+# Secrets
+src/main/resources/application.properties
+.env
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
